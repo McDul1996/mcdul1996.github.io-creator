@@ -1,4 +1,4 @@
-baseURL = "http://mcdul1996.github.io"
+baseURL = "http://mcdul1996.github.io/"
 languageCode = "zh-Hans"
 title = "McDul的博客"
 theme = "ananke"
